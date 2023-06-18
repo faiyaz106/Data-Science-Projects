@@ -37,7 +37,7 @@ Duplicated: 272 observations
 
 Final dataset: 918 observations
 
-Every dataset used can be found under the Index of heart disease datasets from UCI Machine Learning Repository on the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/
+Every dataset used can be found under the Index of heart disease datasets from UCI Machine Learning Repository on the following link: https://archive.ics.uci.edu/dataset/45/heart+disease
 
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
